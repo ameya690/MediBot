@@ -1,26 +1,15 @@
 
 
-# Llama2 Medical Bot
+# MediBot
 
-The Llama2 Medical Bot is a powerful tool designed to provide medical information by answering user queries using state-of-the-art language models and vector stores. This README will guide you through the setup and usage of the Llama2 Medical Bot.
-
-## Table of Contents
-
-- [Introduction](#langchain-medical-bot)
-- [Table of Contents](#table-of-contents)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+The integration of artificial intelligence (AI) into healthcare is an ongoing trend, with large language models (LLMs) like GPT-3.5 and GPT-4 revolutionizing the field by providing advanced predictive capabilities. Despite these advancements, existing healthcare AI systems often struggle with vast data volumes and inconsistent symptom characterization standards, hindering their ability to meet individual patient needs fully. The MediBot project aims to address these challenges by creating a conversational chatbot that allows patients to interact with an application to detect potential ailments based on their symptoms.
 
 ## Prerequisites
 
 Before you can start using the Llama2 Medical Bot, make sure you have the following prerequisites installed on your system:
 
 - Python 3.6 or higher
-- Required Python packages (you can install them using pip):
+- Required Python packages:
     - langchain
     - chainlit
     - sentence-transformers
@@ -67,7 +56,7 @@ To get started with the Llama2 Medical Bot, you need to:
 
 ## Usage
 
-The Llama2 Medical Bot can be used for answering medical-related queries. To use the bot, you can follow these steps:
+The MediBot can be used for answering medical-related queries. To use the bot, you can follow these steps:
 
 1. Start the bot by running your application or using the provided Python script.
 
@@ -79,26 +68,4 @@ The Llama2 Medical Bot can be used for answering medical-related queries. To use
 
 5. The bot can be customized to return specific information based on the query and context provided.
 
-## Contributing
-
-Contributions to the Llama2 Medical Bot are welcome! If you'd like to contribute to the project, please follow these steps:
-
-1. Fork the repository to your own GitHub account.
-
-2. Create a new branch for your feature or bug fix.
-
-3. Make your changes and ensure that the code passes all tests.
-
-4. Create a pull request to the main repository, explaining your changes and improvements.
-
-5. Your pull request will be reviewed, and if approved, it will be merged into the main codebase.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-For more information on how to use, configure, and extend the Llama2 Medical Bot, please refer to the Langchain documentation or contact the project maintainers.
-
-Happy coding with Llama2 Medical Bot! 🚀
+Happy chatting! 🚀
