@@ -1,0 +1,16 @@
+pypdf
+langchain
+langchain-community
+torch
+accelerate
+bitsandbytes
+ctransformers
+sentence_transformers
+faiss_cpu
+chainlit
+huggingface_hub
+unstructured
+unstructured[pdf]
+qdrant-client
+fastapi
+uvicorn
